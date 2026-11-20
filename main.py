@@ -2,7 +2,7 @@ from discount_strategy import BulkDiscount, PercentageDiscount, StudentDiscount
 from input_helpers import get_positive_float
 from inventory import Inventory
 from order import Order
-from product import Product
+from Products import Product
 from product_factory import ProductFactory
 from product_loader import load_products
 from supplier import Supplier
