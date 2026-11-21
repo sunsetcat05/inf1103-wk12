@@ -1,4 +1,4 @@
-from product import Product
+from Products import Product
 
 
 class Inventory:

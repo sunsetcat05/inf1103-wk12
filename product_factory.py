@@ -1,6 +1,6 @@
 from digital_product import DigitalProduct
 from physical_product import PhysicalProduct
-from product import Product
+from Products import Product
 from supplier import Supplier
 
 

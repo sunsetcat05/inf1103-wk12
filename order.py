@@ -1,6 +1,6 @@
 from discount_strategy import DiscountStrategy, NoDiscount
 from order_line import OrderLine
-from product import Product
+from Products import Product
 
 
 class Order:
